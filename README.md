@@ -2,10 +2,16 @@
 This is a collection of tools that I create and use to help me semi-automate the monthly report data gathering and processsing
 
 ## What was your motivation?
+My motivation for making this tool is that I want to implement my python skills, especially in data processing on the work I am working on.
+
 ## Why did you build this project?
+I made this tool because I want my work to be done faster. To compile a monthly report, I need to extract data from more than 500 text files and process data from about 30 CSV files. If I do it manually, it will take a lot of time and effort. Therefore, I took the initiative to create tools that can make this work easier.
+
 ## What problem does it solve?
+The problem that can be overcome by this tool is the efficiency of data collection and processing to compile monthly reports. By using this tool, the process can be completed within 1 hour.
+
 ## What did you learn?
-## What makes your project stand out?
+From working on this project, I learned about the glob library for reading and writing to a file. In addition, I also learned how to process data in python using the pandas and NumPy libraries.
 
 ## List of tools:
 1. read all file.py
